@@ -20,6 +20,5 @@ This backup is for preservation, transparency, and sharing of knowledge. It allo
 
 ## License
 
-Unless otherwise noted, the content is under the same license as prophetmattias.com. Please contact the site owner for details or see the site’s license page if available.
-
----
+The content in this repository is published under the  
+[Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).

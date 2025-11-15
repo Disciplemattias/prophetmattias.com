@@ -20,5 +20,5 @@ This backup is for preservation, transparency, and sharing of knowledge. It allo
 
 ## License
 
-The content in this repository is published under the  
-[Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
+Copyright © Mattias Almlöf 2025. All rights reserved.  
+This repository and its contents are fully copyrighted. No rights are granted to use, share, or modify the contents unless explicitly authorized by the copyright holder.

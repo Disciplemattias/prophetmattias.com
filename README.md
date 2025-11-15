@@ -16,7 +16,7 @@ This repository is a public backup of the content from [prophetmattias.com](http
 
 ## Why is this public?
 
-This backup is for preservation, transparency, and sharing of knowledge. It allows others to fork, download, and archive the site's content.
+This backup is for preservation, transparency, and sharing of knowledge. It allows others to download, and archive the site's content.
 
 ## License
 
